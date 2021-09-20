@@ -11,6 +11,3 @@ Scrape any website
    :caption: Contents:
 
    intro
-   installation
-   train
-   run
