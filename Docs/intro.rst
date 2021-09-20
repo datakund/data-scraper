@@ -20,7 +20,6 @@ Import data-scraper
 	from data_scraper import *
 	
 	
-**************************************************
 Train
 **************************************************
 It takes two URLs of 2 similiar pages to train the scraper.
@@ -40,7 +39,6 @@ Here is the code:-
    :rtype: dict
    
 
-**************************************************
 Run
 **************************************************
 It runs the scraper and gives data in response.
